@@ -5,9 +5,10 @@ body {
     background-color: #FFF2DB;
     height: 100vh;
     width: 100vw;
-    margin: 0px;
+    margin: 8px;
     padding: 0px;
     line-height: 1.75;
+    display: block
 }
 
 header {
@@ -29,6 +30,13 @@ h1 {
     letter-spacing: 4px;
 }
 
+#mainHeading {
+    color: red
+}
+
+.funParagraph {
+    color: green
+}
 #flowers {
     color: #8F987A;
     font-size: x-large;
