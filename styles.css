@@ -1,1 +1,178 @@
 /* Write your CSS here! */
+body {
+    font-size: 12pt;
+    font-family: Lucida Grande, monospace;
+    background-color: #FFF2DB;
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
+    line-height: 1.75;
+}
+
+header {
+    color: white;
+	background-color: #C3EAA9;
+    font-size: large;
+	text-align: center;
+	width: 100%;
+	padding: 10px 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+h1 {
+    font-family: bradley hand, cursive;
+    letter-spacing: 4px;
+}
+
+#flowers {
+    color: #8F987A;
+    font-size: x-large;
+    text-align: center
+}
+
+#style-pink-left {
+    border-left: 10px solid #FEBEB2;
+    padding: 0px 0px 15px 15px;
+    margin: 30px 30px;
+}
+
+#style-green-left {
+    border-left: 10px solid #D9F5C2;
+    padding: 0px 0px 0px 15px;
+    margin: 30px 30px;
+}
+
+#style-peach-left {
+    border-left: 10px solid #FECAAB;
+    padding: 0px 0px 15px 15px;
+    margin: 30px 30px;
+}
+
+#style-darkgreen-left {
+    border-left: 10px solid #BDC8A6;
+    padding: 0px 0px 15px 15px;
+    margin: 30px 30px;
+}
+
+#style-pink-right {
+    border-right: 10px solid #FEBEB2;
+    padding: 0px 15px 15px 15px;
+    margin: 30px 30px;
+}
+
+#style-green-right {
+    border-right: 10px solid #D9F5C2;
+    padding: 0px 15px 15px 15px;
+    margin: 30px 30px;
+}
+
+#style-peach-right {
+    border-right: 10px solid #FECAAB;
+    padding: 0px 15px 15px 15px;
+    margin: 30px 30px;
+}
+
+#style-darkgreen-right {
+    border-right: 10px solid #BDC8A6;
+    padding: 0px 15px 15px 15px;
+    margin: 30px 30px;
+}
+
+#box {
+    border: 6px solid #8F987A;
+    padding: 15px;
+    margin: 30px 30px;
+}
+
+#box-heading {
+    font-weight: extra bold;
+    font-family: bradley hand, cursive;
+    font-size: 2.5rem;
+    letter-spacing: 4px;
+    color: #8F987A;
+    margin: 8px;
+}
+
+ul {
+    list-style: none;
+    margin-left: 10px;
+    padding-left: 10px;
+  }
+  
+  li {
+    padding-left: 1em;
+    text-indent: -1em;
+    margin-bottom: 16px;
+  }
+  
+  li:before {
+    content: "\273F";
+    color: #8F987A;
+    padding-right: 5px;
+  }
+
+.float-right {
+    float: right;
+    margin-left: 20px;
+  }
+
+.float-left {
+    float: left;
+    margin-right: 20px;
+  }
+
+.img-xsm {
+    max-height: 120px;
+  }
+
+.img-sm {
+    max-height: 120px;
+  }
+
+.img-keeb {
+    max-height: 200px;
+}
+
+.img-med {
+    max-height: 240px;
+  }
+
+.img-lg {
+    max-height: 360px;
+  }
+
+.img-xlg {
+    width: 100%
+  }
+
+.img-border-green {
+    border: 8px #D9F5C2 solid;
+  }
+
+.img-border-pink {
+    border: 8px #FEBEB2 solid;
+  }
+
+.img-border-peach {
+    border: 8px #FECAAB solid;
+  }
+
+.img-border-darkgreen {
+    border: 8px #BDC8A6 solid;
+  }
+
+.img-border-cream {
+    border: 8px #F8E3BE solid;
+  }
+
+.column {
+    width: 50%;
+  }
+
+
+ 
