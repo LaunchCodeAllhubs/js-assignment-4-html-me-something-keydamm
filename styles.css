@@ -37,6 +37,14 @@ h1 {
 .funParagraph {
     color: green
 }
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: #C3EAA9;
+    width: 100%;
+    padding: 10px 10px;
+}
 #flowers {
     color: #8F987A;
     font-size: x-large;
@@ -104,6 +112,10 @@ h1 {
     letter-spacing: 4px;
     color: #8F987A;
     margin: 8px;
+}
+
+#copyright {
+    font-size: .5rem;
 }
 
 ul {
